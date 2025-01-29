@@ -1,4 +1,5 @@
 _site
+.idea
 data
 .DS_Store
 .sass-cache
