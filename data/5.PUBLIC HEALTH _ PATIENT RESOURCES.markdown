@@ -1,0 +1,39 @@
+---
+title:  "PUBLIC HEALTH / PATIENT RESOURCES"
+layout: page
+permalink: /PUBLIC HEALTH _ PATIENT RESOURCES/
+nav_order: 5
+---
+
+1. Recognize reportable neuroinfectious pathogens (per 2024 CDC guidelines)  
+   1. Arboviral diseases: california encephalitis virus, chikungunya virus, eastern equine encephalitis virus, Powassan virus, Rocky mountain spotted fever, St. Louis encephalitis virus, West Nile virus, Western equine encephalitis virus, Zika virus  
+   2. Botulism  
+   3. Coccidiomycosis  
+   4. Dengue  
+   5. Haemophilus influenzae  
+   6. Hantavirus  
+   7. Listeriosis  
+   8. Leptospirosis  
+   9. Lyme disease  
+   10. Neisseria meningitidis  
+   11. Poliovirus  
+   12. Rabies  
+   13. Syphilis  
+   14. Tetanus  
+   15. Tuberculosis  
+2. Understand neuroinfectious diseases with public health / infection control requirements   
+   1. Those requiring potential contact / exposure tracing   
+      1. Neisseria meningitidis  
+      2. Botulism  
+      3. Creutzfeldt-Jakob / Prion disease  
+      4. Rabies  
+   2. Those requiring special PPE  
+      1. Neisseria meningitis   
+      2. Disseminated VZV   
+      3. Creutzfeldt-Jakob / Prion disease  
+   3. Those requiring prophylaxis if exposed  
+      1. Neisseria meningitidis  
+      2. Rabies  
+3. Patient resources  
+   1. Recognize resources that exist and connect patients accordingly”
+

@@ -1,0 +1,32 @@
+---
+title:  "LOCALIZATION-BASED SYNDROMES"
+layout: page
+permalink: /LOCALIZATION-BASED SYNDROMES/
+nav_order: 6
+---
+
+| Localization | Categorization | Examples (not all-inclusive) |
+| ----- | ----- | ----- |
+| Meninges   (meningitis) | Diffuse, non-specific | Bacterial – *Streptococcus pneumoniae, Neisseria meningitidis, Listeria monocytogenes, Escherichia coli, Streptococcus agalactiae, Staphylococcus aureus, Borrelia burgdorferi, Treponema pallidum, Mycobacterium tuberculosis*   Viral – enteroviruses, herpesviruses (e.g. HSV, VZV), arboviruses (WNV, JEV), HIV, lymphocytic choriomeningitis virus.   Fungal – *Cryptococcus neoformans/gattii, Coccidioides, Histoplasma, Blastomyces.*   Parasitic – *Naegleria fowleri, Angiostrongylus cantonensis, Balamuthia mandrillaris*   |
+|  | Pachymeninges \* | Treponema pallidum, Mycobacterium tuberculosis, cryptococcus neoformans/gattii   |
+| Brain/Brainstem   (Encephalitis, rhombencephalitis, cerebritis, abscess, etc.) | Temporal lobes | HSV, VZV, HHV6   |
+|  | Deep gray | Flaviviruses (West Nile virus, St. Louis encephalitis virus, Japanese encephalitis virus, etc.), Powassan virus, rabies virus, *Mycobacterium tuberculosis.*   |
+|  | White matter | JCV (e.g. PML), HIV, EBV (EBV-associated CNS lymphoma)   |
+|  | Cerebellum | VZV, WNV, Powassan virus   |
+|  | Brainstem | *Listeria monocytogenes*, Enteroviruses (EVD68 & A71), West Nile virus, Japanese encephalitis virus, rabies virus, *Mycoplasma pneumoniae, Mycobacterium tuberculosis* |
+|  | Focal lesions (cerebritis / brain abscess) | Bacterial – Bacterial abscesses are often polymicrobial and may include Staphylococcus species, Streptococcus species, Gram negative rods, and anaerobic species; Mycobacterium tuberculosis (tuberculomas), Treponema pallidum (syphilitic gummas)   Fungal – *Cryptococcus neoformans/gattii (cryptococcomas), Coccidioides, Histoplasma, Blastomyces, etc*.   Parasitic – *Taenia solium, Toxoplasma gondii, Entamoeba histolytica, Naegleria fowleri, Acanthamoeba sp., Balamuthia mandrillaris,*   |
+| Spine   (myelitis, spondylodiscitis, etc)   | LETM | VZV, WNV, enterovirus, Treponema pallidum, etc. |
+|  | Anterior horn | Enterovirus (EVD68 & A71 most commonly), West Nile virus, poliovirus |
+|  | Dorsal column and/or corticospinal tracts | Treponema pallidum, HTLV-1, HIV |
+|  | Epidural space | Pyogenic bacteria, *Mycobacterium tuberculosis* |
+|  | Conus medullaris / cauda equina | HSV-2, VZV, *Schistosoma* |
+|  | Bone/discs | Pyogenic bacteria, Brucella, *Mycobacterium tuberculosis* |
+| Nerve, nerve root, and NMJ   (Neuropathy, mononeuritis multiplex, radiculitis, etc.) | Cranial nerves | Treponema pallidum, HIV, HSV, VZV, West Nile virus, EBV, *Borrelia burgdorferi, Mycobacterium tuberculosis*, *Clostridium botulinum* |
+|  | Nerve roots | Herpesviruses (HSV, VZV, CMV, EBV), HIV, Zika virus, *Borrelia burgdorferi*   |
+|  | Nerves | Polyneuropathy – HIV, HTLV-I, Mycobacterium leprae, hepatitis B virus, hepatitis C virus   Mononeuritis multiplex \-- HIV, hepatitis B virus, hepatitis C virus, *Borrelia burgdorferi, Mycobacterium leprae.*   Motor nerve hyperexcitability – *Clostridium tetani*   |
+|  | NMJ | *Clostridium botulinum*   |
+| Muscle   (Myositis) | Acute viral myositis | Influenza, coxsackievirus, COVID-19, Dengue virus |
+|  | Other | HIV, HTLV-1, pyomyositis, *Trichinella* |
+|   Eye & optic nerve   (Optic neuritis, neuroretinitis, etc.) | Optic nerve and/or retina | *Bartonella, Treponema pallidum, Borrelia burgdorferi, Mycobacterium tuberculosis,* HSV, VZV, CMV, West Nile virus, Zika virus, *Toxoplasma gondii*, *Cryptococcus*   |
+| Blood vessel   (Vasculopathy and/or vasculitis) | Intracranial or extracranial vessels | VZV, HIV, *Treponema pallidum, Mycobacterium tuberculosis, Aspergillus* |
+

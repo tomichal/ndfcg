@@ -1,0 +1,59 @@
+---
+title:  "DIAGNOSTIC TESTING"
+layout: page
+permalink: /DIAGNOSTIC TESTING/
+nav_order: 2
+---
+
+1. **Core Principles of Understanding**  
+   1. Interpretations of Pleocytosis (i.e. neutrophilic, lymphocytic, eosinophilic) within basic CSF profile  
+      1. Potential limitations (shunt vs. LP sample, CSF sample for isolated parenchymal lesions, CSF flow obstruction / Froin syndrome)  
+   2. Interpretation of cytology / flow (common patterns, can highlight things like limitations of CSF differential and finding eosinophils here for example)  
+   3. Understanding time course of the disease and sensitivity and specificity of diagnostics modalities particularly within viral disease courses  
+   4. The mechanics of common diagnostic modalities used in Neuro Infectious Disease, their resource burden (financial and infrastructure), and their strengths and limitations specific to diagnosing neurological infections (including but not limited to sensitivity, specificity) within general population, after empiric antibiotics, in the setting of host immune modulation (i.e. HIV, targeted immunotherapies), and within different sampling types (i.e. shunt, LP, EVD)  
+2. **Core Diagnostic Modalities and Key Features**  
+   1. Culture  
+      1. Bacteria Media  
+      2. Listeria Media  
+      3. Mycobacterial Media  
+      4. Viral, yes, Viral  
+      5. Fungal  
+      6. India Ink  
+      7. Parasitic  
+      8. Thick and Thin Blood Smears  
+   2. Direct Antigen Testing  
+      1. EIA, Lateral Flow Assays, Latex Agglutination Assays, Membrane Bound Immunoassays, Western Blot  
+         1. Cryptococcal Meningitis  
+         2. Bacterial meningitis (resource limited setting)  
+         3. Galactomannan  
+         4. Beta-D-Glucan  
+         5. Lyme Disease Confirmation  
+   3. Serology  
+      1. Many of the same techniques as direct antigen testing but detecting Antibodies instead including Latex Agglutination Assays, Membrane Bound Immunoassays, ELISA, western blot,  
+         1. West Nile Virus  
+         2. Syphilis  
+         3. VZV Vasculitis  
+         4. Enzyme-linked immunoelectrotransfer blot (EITB) for Neurocystercarcosis  
+         5. Coccidioides  
+   4. Nucleic Acid (DNA) Based Testing  
+      1. Polymerase Chain Reaction  
+         1. Multi-plex (Biofire Panel) and Single Plex  
+         2. HSV  
+         3. PML  
+      2. Next Generation Metagenomic Sequencing  
+      3. Bacterial and Fungal Ribosomal PCR  
+         1. 16s and 18s ‘Universal’ PCR  
+3. **The strengths and limitations of diagnostics between serum and CSF, and the awareness to perform Intrathecal Synthesis Ratio when appropriate**  
+   1. VZV Vasculitis  
+4. **Master complex/nuanced diagnostic algorithms within NeuroID**  
+   1. Neuroborreliosis  
+   2. Neurosyphilis  
+   3. Tuberculosis Meningitis  
+   4. Infectious Vasculitis  
+   5. Malaria  
+5. **Guide the appropriate handling and key opportunities within pathology to inform Neuroinfectious diagnostics.**  
+   1. Indications for pathology  
+   2. Pathologic processing (ie making sure to get cultures, limitations when specimens are fixed, etc)  
+   3. What can be performed on tissue, what are common findings to suggest infection  
+   4. Interpreted reports not actual specimens (granulomas, vasculitis, infection-specific findings like Cowdry A bodies, etc)
+

@@ -1,0 +1,57 @@
+---
+title:  "NEUROIMAGING/NEUROPHYSIOLOGY"
+layout: page
+permalink: /NEUROIMAGING_NEUROPHYSIOLOGY/
+nav_order: 3
+---
+
+1. Neuroimaging  
+   1. Be familiar with advantages and disadvantages of various imaging modalities for the diagnostic work-up of neurological infections including, but not limited to:  
+      1. Computed tomography (CT) of the brain and spine  
+      2. Magnetic resonance imaging (MRI) of the brain, orbits, and spine  
+      3. Magnetic resonance angiography (MRA) with vessel wall imaging  
+      4. Magnetic resonance spectroscopy (MRS) of the brain  
+      5. Positron emission tomography (PET) of brain and/or body  
+   2. Recognize imaging abnormalities associated with the following neuroinfectious syndromes and be able to list a differential diagnosis for each one:  
+      1. Meningitis  
+      2. Encephalitis  
+      3. Rhombencephalitis  
+      4. Infectious vasculitis  
+      5. Optic neuritis  
+      6. Brain abscess  
+      7. Myelitis  
+      8. Radiculitis/myeloradiculitis  
+      9. Epidural abscess  
+      10. Spondylodiscitis  
+   3. Recognize clinical syndromes and pathogens associated with the following imaging patterns:  
+      1. Leptomeningitis  
+      2. Pachymeningitis  
+      3. Multi-focal brain lesions  
+      4. Multi-focal brain infarcts  
+      5. Ring-enhancing lesion(s)  
+      6. Confluent white matter abnormalities  
+      7. Longitudinally extensive cord signal abnormalities  
+      8. Optic nerve abnormalities  
+      9. Nerve root enhancement  
+      10. Vessel wall enhancement  
+   4. Recognize unique imaging abnormalities associated with certain pathogens by utilizing knowledge of pathogen tropism; examples include, but are not limited to:  
+      1. Temporal lobe– HSV, HHV6,  
+      2. Deep gray nuclei– Flaviviruses, Powassan virus  
+      3. White matter– JC virus, HIV  
+      4. Cerebellum – WNV, VZV, Powassan virus  
+      5. Brainstem – Listeria monocytogenes, Mycobacterium tuberculosis  
+      6. Anterior horns of spinal cord – Enterovirus D68/A71, WNV, polio virus  
+      7. Dorsal column and corticospinal tract – Treponema pallidum, HTLV-1, HIV   
+      8. Conus medullaris and cauda equina – HSV-2, VZV, Schistosoma  
+      9. Nerve roots – HSV-2, CMV, HIV, EBV  
+   5. Understand the unique roles, advantages, and disadvantages of the following imaging modalities in the diagnostic work-up of neurological infections:  
+      1. MRA vessel wall imaging – role in infectious vasculitis  
+      2. MRI spectroscopy – role in differentiating infection (e.g. toxoplasmosis) from malignancy (e.g. CNS lymphoma)  
+2. Neurophysiology:  
+   1. Understand the indications for neurophysiological testing in the diagnostic work-up and management of neurological infections.  
+   2. Utilize the localization capabilities of neurophysiological testing to help identify possible infectious pathogens; examples include:  
+      1. Temporal lobe discharges on EEG; consider HSV encephalitis  
+      2. Nerve root localization on EMG/NCS; consider HSV, VZV, CMV, EBV radiculitis  
+      3. Myositis on EMG; consider various infectious causes of myositis  
+      4. Anterior horn localization on EMG/NCS; consider EV D68/A71, WNV
+
