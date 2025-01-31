@@ -12,16 +12,16 @@ class String
 end
 
 class Splitter
-  RESOURCES = {
-    "DIAGNOSTIC TESTING" => {
+  RESOURCES = {}
+
+  def initialize(path)
+    @path = path
+
+    RESOURCES["DIAGNOSTIC TESTING"] = {
       "Lectures" => ["AAN_Part 2_2024.pdf"],
       "Seminal Articles" => ["Ramachandan_et_al.pdf"],
       "External Links" => ["https://nextgendiagnostics.ucsf.edu/providers/"]
     }
-  }
-
-  def initialize(path)
-    @path = path
   end
 
   def run
@@ -31,6 +31,14 @@ class Splitter
     parent_pages = extract_pages(File.read(@path), /(?=^\*\*.*?\*\*$)/m)
 
     parent_pages.each do |parent_page|
+      if RESOURCES[parent_page[:section][:title]].nil?
+        RESOURCES[parent_page[:section][:title]] = {
+          'Lectures' => ['...'],
+          'Seminal Articles' => ['...'],
+          'External Links' => ['...']
+        }
+      end
+
       parent_filename = "#{parent_page[:order]}.#{parent_page[:section][:title].sanitize_filename}"
       Dir.mkdir("./data/#{parent_filename}")
 
@@ -105,19 +113,18 @@ nav_order: #{parent[:order]}
 
       if resoures
         resources_md = <<-TXT
-## Resources
 #{
-          resoures.map do |k, v|
-            "### #{k}\n#{v.map do |name|
-              if name.match?(/^http/)
-                url = name
-              else
-                url = "{{ site.baseurl }}/downloads/#{name}"
-              end
-              "* [#{name}](#{url}){: target='_blank' }"
-            end.join("\n")}"
-          end.join("\n\n")
-        }
+  resoures.map do |k, v|
+    "### #{k}\n{: .text-delta}\n#{v.map do |name|
+      if name.match?(/^http/)
+        url = name
+      else
+        url = "{{ site.baseurl }}/downloads/#{name}"
+      end
+      "* [#{name}](#{url}){: target='_blank' }"
+    end.join("\n")}"
+  end.join("\n\n")
+}
         TXT
         markdown = "#{markdown}\n#{resources_md}"
       end
