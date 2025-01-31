@@ -1,0 +1,34 @@
+---
+title:  "2. Immunomodulatory treatment"
+parent: MANAGEMENT / OUTCOMES
+layout: page
+permalink: /2. Immunomodulatory treatment/
+nav_order: 2
+---
+
+**2. Immunomodulatory treatment**
+
+1. Understand necessary infectious pre-screening testing prior to beginning immune modulatory therapy   
+   1. HBV/HCV testing  
+   2. HIV screening   
+   3. Tuberculosis screening  
+   4. Strongyloides antibody testing (or empiric treatment) if from endemic region   
+2. Understand the indication for corticosteroids used to treat the following conditions:  
+   1. Bacterial meningitis  
+   2. Immune reconstitution syndrome (IRIS)  
+   3. Neurocysticercosis  
+   4. Tuberculous meningitis  
+   5. Viral meningitis (Varicella zoster, Epstein-Barr encephalitis)  
+3. Understand the limitations or contraindications for corticosteroids used to treat the following conditions:  
+   1. Certain bacterial meningitis (ex: Listeria)  
+   2. Viral meningitis (ex: Herpesvirus)  
+4. Understand the limitations for IVIG used to treat the following conditions:  
+   1. Viral encephalitis  
+5. Be familiar with emerging investigational therapy used to treat PML  
+   1. Immune checkpoint inhibitors  
+   2. Virus specific T-cells  
+   3. Interleukins  
+6. Be familiar with the immune suppressing medications used for refractory IRIS  
+   1. Anti-TNF (e.g. infliximab)  
+   2. Maraviroc
+

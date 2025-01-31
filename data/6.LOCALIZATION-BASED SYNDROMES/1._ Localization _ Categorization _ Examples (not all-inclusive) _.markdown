@@ -1,11 +1,13 @@
 ---
-title:  "LOCALIZATION-BASED SYNDROMES"
+title:  "| Localization | Categorization | Examples (not all-inclusive) |"
+parent: LOCALIZATION-BASED SYNDROMES
 layout: page
-permalink: /LOCALIZATION-BASED SYNDROMES/
-nav_order: 6
+permalink: /_ Localization _ Categorization _ Examples (not all-inclusive) _/
+nav_order: 1
 ---
 
-| Localization | Categorization | Examples (not all-inclusive) |
+**| Localization | Categorization | Examples (not all-inclusive) |**
+
 | ----- | ----- | ----- |
 | Meninges   (meningitis) | Diffuse, non-specific | Bacterial – *Streptococcus pneumoniae, Neisseria meningitidis, Listeria monocytogenes, Escherichia coli, Streptococcus agalactiae, Staphylococcus aureus, Borrelia burgdorferi, Treponema pallidum, Mycobacterium tuberculosis*   Viral – enteroviruses, herpesviruses (e.g. HSV, VZV), arboviruses (WNV, JEV), HIV, lymphocytic choriomeningitis virus.   Fungal – *Cryptococcus neoformans/gattii, Coccidioides, Histoplasma, Blastomyces.*   Parasitic – *Naegleria fowleri, Angiostrongylus cantonensis, Balamuthia mandrillaris*   |
 |  | Pachymeninges \* | Treponema pallidum, Mycobacterium tuberculosis, cryptococcus neoformans/gattii   |

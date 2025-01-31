@@ -1,0 +1,42 @@
+---
+title:  "2. Core Diagnostic Modalities and Key Features"
+parent: DIAGNOSTIC TESTING
+layout: page
+permalink: /2. Core Diagnostic Modalities and Key Features/
+nav_order: 2
+---
+
+**2. Core Diagnostic Modalities and Key Features**
+
+1. Culture  
+   1. Bacteria Media  
+   2. Listeria Media  
+   3. Mycobacterial Media  
+   4. Viral, yes, Viral  
+   5. Fungal  
+   6. India Ink  
+   7. Parasitic  
+   8. Thick and Thin Blood Smears  
+2. Direct Antigen Testing  
+   1. EIA, Lateral Flow Assays, Latex Agglutination Assays, Membrane Bound Immunoassays, Western Blot  
+      1. Cryptococcal Meningitis  
+      2. Bacterial meningitis (resource limited setting)  
+      3. Galactomannan  
+      4. Beta-D-Glucan  
+      5. Lyme Disease Confirmation  
+3. Serology  
+   1. Many of the same techniques as direct antigen testing but detecting Antibodies instead including Latex Agglutination Assays, Membrane Bound Immunoassays, ELISA, western blot,  
+      1. West Nile Virus  
+      2. Syphilis  
+      3. VZV Vasculitis  
+      4. Enzyme-linked immunoelectrotransfer blot (EITB) for Neurocystercarcosis  
+      5. Coccidioides  
+4. Nucleic Acid (DNA) Based Testing  
+   1. Polymerase Chain Reaction  
+      1. Multi-plex (Biofire Panel) and Single Plex  
+      2. HSV  
+      3. PML  
+   2. Next Generation Metagenomic Sequencing  
+   3. Bacterial and Fungal Ribosomal PCR  
+      1. 16s and 18s ‘Universal’ PCR
+

@@ -1,0 +1,39 @@
+---
+title:  "4. Common complications / long-term sequelae"
+parent: MANAGEMENT / OUTCOMES
+layout: page
+permalink: /4. Common complications _ long-term sequelae/
+nav_order: 4
+---
+
+**4. Common complications / long-term sequelae**
+
+1. Understand long-term sequelae patients with neuroinfectious diseases may encounter after the acute phase  
+   1. Meningoencephalitis  
+      1.  Cognitive syndrome  
+         1. Learning difficulties  
+         2. Memory problems  
+         3. Speech problems  
+      2. Dysphagia  
+      3.  Fatigue  
+      4. Headache and pain syndromes  
+      5. Hearing loss  
+      6. Neurobehavioral dysregulation  
+      7.  Parkinsonism and gait disorder  
+      8. Seizures  
+      9. Vestibular syndrome  
+      10. Vision loss  
+   2. Myelitis  
+      1. Bowel and / or bladder incontinence  
+      2. Chronic pain syndrome and spasticity  
+      3. Motor weakness and gait disorder  
+      4. Recurrent infections from immobility  
+      5. Sexual dysfunction  
+   3. Peripheral nervous system infections  
+      1. Chronic pain syndromes  
+      2. Motor weakness and gait disorder  
+2. Understand the utility for longitudinal surveillance for laboratory markers for specific pathogens in patients with stable and active / recurrent symptoms  
+   1. Repeat culture in the blood and CSF  
+   2. Repeat PCR in the blood and CSF  
+   3. Repeat Serology in the blood and CSF
+

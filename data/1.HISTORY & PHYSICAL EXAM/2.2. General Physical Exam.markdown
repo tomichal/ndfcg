@@ -1,0 +1,17 @@
+---
+title:  "2. General Physical Exam"
+parent: HISTORY & PHYSICAL EXAM
+layout: page
+permalink: /2. General Physical Exam/
+nav_order: 2
+---
+
+**2. General Physical Exam**
+
+1. Recognize common systemic manifestations of neurotropic pathogens and common patterns of system \+ neurologic presentations  
+   1. List common syndromes from my talk or just link to it  
+2. Recognize the need for PPE related to specific neuroinfectious diseases  
+   1. Neisseria meningitis  
+   2. Disseminated VZV  
+   3. Tuberculosis (only if active pulmonary disease in addition to CNS)
+

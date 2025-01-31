@@ -1,0 +1,18 @@
+---
+title:  "3. Focal CNS lesions"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
+layout: page
+permalink: /3. Focal CNS lesions/
+nav_order: 4
+---
+
+**3. Focal CNS lesions**
+
+1. Cyst  
+   1. Colloid  
+   2. Dermoid or epidermoid  
+   3. Neoplasm  
+2. Ring enhancing  
+   1. Demyelinating disease  
+   2. Neoplastic
+

@@ -1,0 +1,15 @@
+---
+title:  "5. Guide the appropriate handling and key opportunities within pathology to inform Neuroinfectious diagnostics."
+parent: DIAGNOSTIC TESTING
+layout: page
+permalink: /5. Guide the appropriate handling and key opportunities within pathology to inform Neuroinfectious diagnostics./
+nav_order: 5
+---
+
+**5. Guide the appropriate handling and key opportunities within pathology to inform Neuroinfectious diagnostics.**
+
+1. Indications for pathology  
+2. Pathologic processing (ie making sure to get cultures, limitations when specimens are fixed, etc)  
+3. What can be performed on tissue, what are common findings to suggest infection  
+4. Interpreted reports not actual specimens (granulomas, vasculitis, infection-specific findings like Cowdry A bodies, etc)
+

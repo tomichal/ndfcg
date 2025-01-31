@@ -157,7 +157,7 @@
 
  
 
-**NEUROIMAGING/NEUROPHYSIOLOGY**  
+**NEUROIMAGING AND NEUROPHYSIOLOGY**  
 
 1. Neuroimaging  
    1. Be familiar with advantages and disadvantages of various imaging modalities for the diagnostic work-up of neurological infections including, but not limited to:  

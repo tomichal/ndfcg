@@ -1,11 +1,13 @@
 ---
-title:  "COMMON NEUROINFECTIOUS PATHOGENS BY TYPE"
+title:  "| Type | Subtype | Virus | Common neurologic manifestations | Notes |"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
 layout: page
-permalink: /COMMON NEUROINFECTIOUS PATHOGENS BY TYPE/
-nav_order: 7
+permalink: /_ Type _ Subtype _ Virus _ Common neurologic manifestations _ Notes _/
+nav_order: 1
 ---
 
-| Type | Subtype | Virus | Common neurologic manifestations | Notes |
+**| Type | Subtype | Virus | Common neurologic manifestations | Notes |**
+
 | :---: | ----- | ----- | :---: | ----- |
 | **Viruses** | **Herpes viruses** | HSV1 | Encephalitis Meningitis Myelitis | Neurologic manifestations primarily occur in adults during reactivation of latent infection   \*HSV2 meningitis can be recurrent |
 |  |  | HSV2 | Meningitis\* Myelitis Myeloradiculitis  |  |
@@ -71,53 +73,5 @@ nav_order: 7
 |  |  | *Angiostrongylus cantonensis* | Meningitis\* Encephalitis | \*Usually eosinophilic |
 |  |  | *Gnathostoma* sp. | Meningitis\* Encephalitis Myelitis | \*Usually eosinophilic |
 
- 
-
- 
-
-**MIMICS OF NEUROINFECTIOUS DISEASES** 
-
-1. Meningoencephalitis  
-   1. ADEM  
-   2. MOGAD with meningitis or cortical encephalitis   
-   3. Autoimmune limbic encephalitis  
-   4. Bickerstaff encephalitis  
-   5. HLH  
-   6. Malignancy / Lymphoma / Metastatic disease  
-   7. Mitochondrial encephalomyopathies  
-   8. Paraneoplastic syndrome  
-   9. PRES  
-   10. Toxic and metabolic encephalopathies  
-   11. Vasculitis  
-2. Diffuse CNS lesions  
-   1. Leukodystrophy  
-   2. Multiple sclerosis  
-   3. Sarcoidosis  
-3. Focal CNS lesions  
-   1. Cyst  
-      1. Colloid  
-      2. Dermoid or epidermoid  
-      3. Neoplasm  
-   2. Ring enhancing  
-      1. Demyelinating disease  
-      2. Neoplastic  
-4. Myelitis  
-   1. NMO  
-   2. Sarcoidosis  
-   3. Spondylitis  
-   4. Strokes  
-   5. Toxic metabolic  
-   6. Vascular malformations  
-   7. Genetic (DARS2)  
-5. PNS  
-   1. ALS  
-   2. Diabetes  
-   3. Immune-mediated  
-   4. GBS  
-   5. Toxic metabolic  
-6. Vasculitis  
-   1. Illicit substances  
-   2. Immune-mediated  
-   3. Ischemic strokes  
-   4. Radiation-induced
+**MIMICS OF NEUROINFECTIOUS DISEASES**
 

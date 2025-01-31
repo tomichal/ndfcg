@@ -1,0 +1,12 @@
+---
+title:  "3. The strengths and limitations of diagnostics between serum and CSF, and the awareness to perform Intrathecal Synthesis Ratio when appropriate"
+parent: DIAGNOSTIC TESTING
+layout: page
+permalink: /3. The strengths and limitations of diagnostics between serum and CSF, and the awareness to perform Intrathecal Synthesis Ratio when appropriate/
+nav_order: 3
+---
+
+**3. The strengths and limitations of diagnostics between serum and CSF, and the awareness to perform Intrathecal Synthesis Ratio when appropriate**
+
+1. VZV Vasculitis
+

@@ -1,0 +1,8 @@
+---
+title: LOCALIZATION-BASED SYNDROMES
+layout: page
+permalink: /LOCALIZATION-BASED SYNDROMES/
+nav_order: 6
+---
+
+**LOCALIZATION-BASED SYNDROMES**

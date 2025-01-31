@@ -1,0 +1,20 @@
+---
+title:  "3. Surgical treatment"
+parent: MANAGEMENT / OUTCOMES
+layout: page
+permalink: /3. Surgical treatment/
+nav_order: 3
+---
+
+**3. Surgical treatment**
+
+1. Understand the complications from acute neuroinfectious diseases that may require neurosurgical intervention  
+   1. Abscess drainage  
+   2. CSF Shunting  
+   3. ICP Monitoring / Craniectomy  
+      1. Cerebral edema  
+      2. Hydrocephalus   
+      3. Intracranial hypertension  
+2. Understand the indication for CSF shunting for chronic neuroinfectious diseases  
+   1. Cryptococcal meningitis
+

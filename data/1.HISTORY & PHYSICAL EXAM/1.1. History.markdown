@@ -1,0 +1,96 @@
+---
+title:  "1. History"
+parent: HISTORY & PHYSICAL EXAM
+layout: page
+permalink: /1. History/
+nav_order: 1
+---
+
+**1. History**
+
+1. Should be able to efficiently obtain a complete relevant and organized neurologic and infectious history including acuity of symptom onset, review of neurologic and systemic symptoms, prior diagnostic testing and treatment  
+2. Should be able to perform a thorough assessment of risk factors for infection  
+   1. Has understanding of US neuroinfectious epidemiology by geographic region  
+      1. Tick-born infections  
+         1. Lyme  
+         2. RMSF  
+         3. Powassan  
+         4. Tick paralysis  
+         5. Less common to see neurologic involvement: Anaplasmosis, Babesiosis, Ehrlichiosis, tick born relapsing fever, Tularemia  
+      2. Mosquito-borne infections  
+         1. West Nile virus  
+         2. Eastern Equine Encephalitis virus  
+         3. St. Louis Encephalitis  
+         4. Powassan virus  
+         5. Jamestown Canyon virus  
+         6. La Crosse virus  
+         7. Cache valley  
+      3. Tropical neuroinfectious pathogens with local US transmission  
+         1. Malaria   
+         2. Zika  
+         3. Dengue   
+         4. Chikungunya  
+      4. Endemic fungi  
+         1. Coccidiomycosis  
+         2. Histoplasmosis  
+         3. Blastomycoses  
+   2. Should understand how to navigate available references for non-US epidemiology  
+      1. CDC maps   
+      2. [WHO maps](https://www.who.int/data/gho/map-gallery-search-results?&maptopics=bff742f3-f70c-439d-9a17-b5d465acc107)  
+   3. Understands and screens appropriately for social factors that may increase risk of infection  
+      1. Homelessness  
+      2. Incarceration  
+      3. IV drug use  
+      4. Living conditions increasing risk of fecal oral transmission (lack of running water, plumbing)  
+         1. Particularly important to understand that this is the major risk for neurocysticercosis (common misconception that it is from eating raw pork)  
+      5. Zoonotic exposures  
+         1. Arthropods  
+            1. Mosquitoes  
+            2. Ticks  
+         2. Other zoonotic exposures  
+            1. Bats, dogs (Rabies)  
+            2. Rodents (Leptospirosis, LCMV, Monkeypox, Hantavirus, Tularemia)  
+            3. Cats especially kittens (Bartonella)  
+      6. Dietary exposures  
+         1. Listeria-specific exposures: unpasteurized dairy, deli meats, those with current outbreaks, [recalls](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts)   
+         2. Host risk factors
+    4. Understands and screens patient for the varied causes of altered immunocompetence and understands the specific risks associated with each  
+      1. Humoral immunodeficiency  
+         1. Iatrogenic  
+            1. Anti-CD20 therapies, anti-CD19, FcRN modulators  
+         2. Genetic immunodeficiency  
+            1. X-linked agammaglobulinemia, IgA deficiency, CVID  
+         3. Hematologic malignancies  
+      2. Cellular immunodeficiency  
+         1. HIV  
+         2. Iatrogenic  
+            1. Calcineurin inhibitors   
+         3. Genetic  
+            1. Examples: DigGeorge syndrome, chronic mucocutaneous candidiasis, hyper-immunoglobulin M syndrome  
+         4. Hematologic malignancies  
+      3. Combined B & T cell deficiencies  
+         1. Iatrogenic:  
+            1. Stem cell transplant   
+            2. Corticosteroids, cyclophosphamide, mycophenolate, azathioprine, methotrexate  
+         2. Genetic: SCID, Wiskott-Aldrich, Major Histocompatibility Complex deficiency  
+      4. Complement deficiency  
+         1. Acquire  
+            1. Complement inhibitors  
+            2. Asplenia  
+         2. Genetic  
+            1. Examples: hereditary angioedema, deficiency of C3, deficiency of membrane attack complex  
+      5. Other  
+         1. Phagocyte deficiency: chronic granulomatous disease, leukocyte adhesion deficiency syndrome  
+         2. CLTA4 deficiency  
+         3. Genetic interleukin deficiencies  
+         4. Genetic interferonopathies  
+         5. Anti-cytokine antibody syndromes ([paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10778971/))  
+   5. Vaccines  
+      1. Has understanding of vaccinations pertinent to the prevention of neurologic infections and screens for vaccine history  
+         1. Varicella / Shingles vaccine  
+         2. Meningococcal vaccines  
+         3. Pneumococcal vaccines (mainly its limitations in prevention pneumococcal meningitis)  
+      2. Understands neurologic and infectious indications for vaccines, recognizes contraindications and understands limitations    
+         1. Complement inhibitor therapy for NMOSD/MG and data on incomplete efficacy of meningococcal vaccination  
+         2. Contraindication to live vaccines in patients with immunosuppression
+

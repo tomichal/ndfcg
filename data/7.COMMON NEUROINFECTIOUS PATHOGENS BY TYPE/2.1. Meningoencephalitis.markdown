@@ -1,0 +1,22 @@
+---
+title:  "1. Meningoencephalitis"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
+layout: page
+permalink: /1. Meningoencephalitis/
+nav_order: 2
+---
+
+**1. Meningoencephalitis**
+
+1. ADEM  
+2. MOGAD with meningitis or cortical encephalitis   
+3. Autoimmune limbic encephalitis  
+4. Bickerstaff encephalitis  
+5. HLH  
+6. Malignancy / Lymphoma / Metastatic disease  
+7. Mitochondrial encephalomyopathies  
+8. Paraneoplastic syndrome  
+9. PRES  
+10. Toxic and metabolic encephalopathies  
+11. Vasculitis
+

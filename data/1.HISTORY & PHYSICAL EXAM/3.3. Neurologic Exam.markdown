@@ -1,0 +1,16 @@
+---
+title:  "3. Neurologic Exam"
+parent: HISTORY & PHYSICAL EXAM
+layout: page
+permalink: /3. Neurologic Exam/
+nav_order: 3
+---
+
+**3. Neurologic Exam**
+
+1. Efficiently performs a relevant neurologic examination including specific maneuvers that may be pertinent to neuroinfectious pathologies  
+   1. Fundoscopic exam  
+      1. Recognize relevant patterns such as neuroretinitis  
+   2. Meningismus/Kernig/Brudzinski  
+      1. Must be able to perform but also understand the sensitivity/specificity in various patient populations
+

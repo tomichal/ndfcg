@@ -1,0 +1,18 @@
+---
+title:  "4. Myelitis"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
+layout: page
+permalink: /4. Myelitis/
+nav_order: 5
+---
+
+**4. Myelitis**
+
+1. NMO  
+2. Sarcoidosis  
+3. Spondylitis  
+4. Strokes  
+5. Toxic metabolic  
+6. Vascular malformations  
+7. Genetic (DARS2)
+

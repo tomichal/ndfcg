@@ -1,0 +1,68 @@
+---
+title:  "1. Antimicrobials"
+parent: MANAGEMENT / OUTCOMES
+layout: page
+permalink: /1. Antimicrobials/
+nav_order: 1
+---
+
+**1. Antimicrobials**
+
+1. Be familiar with 1\) dosing 2\) treatment course 3\) common side effects of the first-line antimicrobial regimens used to treat the following common neuroinfectious conditions:  
+   1. Bacterial meningitis:  
+      1. Vancomycin  
+      2.  3rd generation cephalosporins, cefepime  
+      3. Ampicillin  
+   2. Herpesviruses (HSV, VZV, CMV, HHV-6):  
+      1.  Acyclovir  
+      2. Valacyclovir  
+      3. Ganciclovir  
+      4. Valganciclovir  
+      5. Foscarnet  
+   3. Fungal infections:  
+      1.  Amphotericin  
+      2. Flucytosine  
+      3. Azoles specifically fluconazole and voriconazole  
+   4. Parasites specifically toxoplasmosis:  
+      1. Sulfadiazine  
+      2. Pyrimethamine  
+      3. Leucovorin  
+   5. Mycobacterium specifically tuberculosis:  
+      1. Rifampin  
+      2. Isoniazid  
+      3. Pyrimethamine  
+      4. Ethambutol  
+   6. Nocardia:  
+      1.  TMP-SMX  
+      2. Linezolid  
+   7. Syphilis:  
+      1. Penicillin G  
+   8. Rickettsial bacteria:  
+      1. Ceftriaxone  
+      2. Doxycycline  
+   9. Be familiar with experimental treatments for infections including PML (pembrolizumab) and HTLV-1 (mogamulizumab)  
+   10. Botulism:  
+       1. Antitoxin  
+   11. Tetanus:  
+       1. Metronidazole  
+2. HIV \+ ART  
+   1. Be familiar with the four major categories of ART type  
+      1. NRTI (nucleoside reverse transcriptase inhibitor)  
+      2. NNRTI (non-nucleoside reverse transcriptase inhibitor)  
+      3.  INSTI (integrase strand inhibitor)  
+      4. PI (protease inhibitor)  
+   2. Be familiar with the most common first line ART combination used to treat HIV:  
+      1. Two NRTIs \+ one medication from the three other classes listed above  
+   3. Be aware that long-acting injectable ART is now available  
+   4. Understand ART that is associated with cognitive impairment  
+      1. Efavirenz  
+   5. Understand ART most commonly associated with neuropathy  
+      1.  NRTIs: Didanosine, Zalcitabine, Stavudine  
+   6. Understand ART most commonly associated with cardiovascular disease including stroke  
+      1. Abacavir  
+      2. Protease inhibitors  
+   7. Review that CNS penetration efficiency (CPE) score of ART is no longer used to determine empiric ART regimen, but that CSF HIV genotyping may be used to adjust ART regimens in settings of symptomatic HIV CNS RNA escape   
+   8. Understand when to consider delaying ART initiation in the setting of new HIV and CNS opportunistic infections  
+      1. CNS cryptococcus  
+      2. CNS tuberculosis
+

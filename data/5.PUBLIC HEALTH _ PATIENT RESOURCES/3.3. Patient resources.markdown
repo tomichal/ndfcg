@@ -1,0 +1,12 @@
+---
+title:  "3. Patient resources"
+parent: PUBLIC HEALTH / PATIENT RESOURCES
+layout: page
+permalink: /3. Patient resources/
+nav_order: 3
+---
+
+**3. Patient resources**
+
+1. Recognize resources that exist and connect patients accordingly”
+

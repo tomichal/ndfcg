@@ -1,0 +1,16 @@
+---
+title:  "4. Master complex/nuanced diagnostic algorithms within NeuroID"
+parent: DIAGNOSTIC TESTING
+layout: page
+permalink: /4. Master complex_nuanced diagnostic algorithms within NeuroID/
+nav_order: 4
+---
+
+**4. Master complex/nuanced diagnostic algorithms within NeuroID**
+
+1. Neuroborreliosis  
+2. Neurosyphilis  
+3. Tuberculosis Meningitis  
+4. Infectious Vasculitis  
+5. Malaria
+

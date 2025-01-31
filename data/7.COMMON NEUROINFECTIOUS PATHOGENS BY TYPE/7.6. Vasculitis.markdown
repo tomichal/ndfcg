@@ -1,0 +1,15 @@
+---
+title:  "6. Vasculitis"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
+layout: page
+permalink: /6. Vasculitis/
+nav_order: 7
+---
+
+**6. Vasculitis**
+
+1. Illicit substances  
+2. Immune-mediated  
+3. Ischemic strokes  
+4. Radiation-induced
+

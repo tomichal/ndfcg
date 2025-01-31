@@ -1,0 +1,16 @@
+---
+title:  "5. PNS"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
+layout: page
+permalink: /5. PNS/
+nav_order: 6
+---
+
+**5. PNS**
+
+1. ALS  
+2. Diabetes  
+3. Immune-mediated  
+4. GBS  
+5. Toxic metabolic
+

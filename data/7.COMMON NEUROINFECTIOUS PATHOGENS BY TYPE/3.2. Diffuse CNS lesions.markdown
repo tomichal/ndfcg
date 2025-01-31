@@ -1,0 +1,14 @@
+---
+title:  "2. Diffuse CNS lesions"
+parent: COMMON NEUROINFECTIOUS PATHOGENS BY TYPE
+layout: page
+permalink: /2. Diffuse CNS lesions/
+nav_order: 3
+---
+
+**2. Diffuse CNS lesions**
+
+1. Leukodystrophy  
+2. Multiple sclerosis  
+3. Sarcoidosis
+

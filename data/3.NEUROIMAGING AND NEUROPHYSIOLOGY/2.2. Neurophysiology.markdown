@@ -1,0 +1,17 @@
+---
+title:  "2. Neurophysiology"
+parent: NEUROIMAGING AND NEUROPHYSIOLOGY
+layout: page
+permalink: /2. Neurophysiology/
+nav_order: 2
+---
+
+**2. Neurophysiology**
+
+1. Understand the indications for neurophysiological testing in the diagnostic work-up and management of neurological infections.  
+2. Utilize the localization capabilities of neurophysiological testing to help identify possible infectious pathogens; examples include:  
+   1. Temporal lobe discharges on EEG; consider HSV encephalitis  
+   2. Nerve root localization on EMG/NCS; consider HSV, VZV, CMV, EBV radiculitis  
+   3. Myositis on EMG; consider various infectious causes of myositis  
+   4. Anterior horn localization on EMG/NCS; consider EV D68/A71, WNV
+

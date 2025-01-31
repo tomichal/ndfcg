@@ -1,0 +1,23 @@
+---
+title:  "2. Understand neuroinfectious diseases with public health / infection control requirements"
+parent: PUBLIC HEALTH / PATIENT RESOURCES
+layout: page
+permalink: /2. Understand neuroinfectious diseases with public health _ infection control requirements/
+nav_order: 2
+---
+
+**2. Understand neuroinfectious diseases with public health / infection control requirements**
+
+1. Those requiring potential contact / exposure tracing   
+   1. Neisseria meningitidis  
+   2. Botulism  
+   3. Creutzfeldt-Jakob / Prion disease  
+   4. Rabies  
+2. Those requiring special PPE  
+   1. Neisseria meningitis   
+   2. Disseminated VZV   
+   3. Creutzfeldt-Jakob / Prion disease  
+3. Those requiring prophylaxis if exposed  
+   1. Neisseria meningitidis  
+   2. Rabies
+

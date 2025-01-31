@@ -1,0 +1,16 @@
+---
+title:  "1. Core Principles of Understanding"
+parent: DIAGNOSTIC TESTING
+layout: page
+permalink: /1. Core Principles of Understanding/
+nav_order: 1
+---
+
+**1. Core Principles of Understanding**
+
+1. Interpretations of Pleocytosis (i.e. neutrophilic, lymphocytic, eosinophilic) within basic CSF profile  
+   1. Potential limitations (shunt vs. LP sample, CSF sample for isolated parenchymal lesions, CSF flow obstruction / Froin syndrome)  
+2. Interpretation of cytology / flow (common patterns, can highlight things like limitations of CSF differential and finding eosinophils here for example)  
+3. Understanding time course of the disease and sensitivity and specificity of diagnostics modalities particularly within viral disease courses  
+4. The mechanics of common diagnostic modalities used in Neuro Infectious Disease, their resource burden (financial and infrastructure), and their strengths and limitations specific to diagnosing neurological infections (including but not limited to sensitivity, specificity) within general population, after empiric antibiotics, in the setting of host immune modulation (i.e. HIV, targeted immunotherapies), and within different sampling types (i.e. shunt, LP, EVD)
+
