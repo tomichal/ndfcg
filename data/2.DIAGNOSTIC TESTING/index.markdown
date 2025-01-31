@@ -8,5 +8,5 @@ nav_order: 2
 **DIAGNOSTIC TESTING**
 
 ***Resources***
-* [Ramachandan et al.pdf](downloads/Ramachandan%20et%20al.pdf)
-* [AAN_Part 2_2024.pdf](..%2F..%2Fdownloads%2FAAN_Part%202_2024.pdf) 
+* [Ramachandan et al.pdf](/downloads/Ramachandan_et_al.pdf)
+* [AAN_Part 2_2024.pdf](/downloads/AAN_Part 2_2024.pdf) 
