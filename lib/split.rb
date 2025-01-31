@@ -12,6 +12,14 @@ class String
 end
 
 class Splitter
+  RESOURCES = {
+    "DIAGNOSTIC TESTING" => {
+      "Lectures" => ["AAN_Part 2_2024.pdf"],
+      "Seminal Articles" => ["Ramachandan_et_al.pdf"],
+      "External Links" => ["https://nextgendiagnostics.ucsf.edu/providers/"]
+    }
+  }
+
   def initialize(path)
     @path = path
   end
@@ -20,7 +28,7 @@ class Splitter
     FileUtils.rm_rf("./data")
     Dir.mkdir("./data")
 
-    parent_pages = extract_pages(File.read(@path),/(?=^\*\*.*?\*\*$)/m)
+    parent_pages = extract_pages(File.read(@path), /(?=^\*\*.*?\*\*$)/m)
 
     parent_pages.each do |parent_page|
       parent_filename = "#{parent_page[:order]}.#{parent_page[:section][:title].sanitize_filename}"
@@ -74,7 +82,7 @@ nav_order: #{order}
 
 #{section[:content]}
 
-TXT
+      TXT
 
       pages << { section:, markdown:, order: }
 
@@ -90,9 +98,31 @@ permalink: /#{parent[:section][:title].sanitize_filename}/
 nav_order: #{parent[:order]}
 ---
 
-**#{parent[:section][:title]}**
+# #{parent[:section][:title]}     
       TXT
-      pages << { section: { title: parent[:section][:title] }, markdown: markdown, order: parent[:order]}
+
+      resoures = Splitter::RESOURCES[parent[:section][:title]]
+
+      if resoures
+        resources_md = <<-TXT
+## Resources
+#{
+          resoures.map do |k, v|
+            "### #{k}\n#{v.map do |name|
+              if name.match?(/^http/)
+                url = name
+              else
+                url = "{{ site.baseurl }}/downloads/#{name}"
+              end
+              "* [#{name}](#{url}){: target='_blank' }"
+            end.join("\n")}"
+          end.join("\n\n")
+        }
+        TXT
+        markdown = "#{markdown}\n#{resources_md}"
+      end
+
+      pages << { section: { title: parent[:section][:title] }, markdown: markdown, order: parent[:order] }
     end
 
     pages
